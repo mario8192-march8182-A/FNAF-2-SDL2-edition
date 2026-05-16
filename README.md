@@ -1,7 +1,15 @@
-This game is NOT a fangame, this game is new, so please do not modify the ASSETS/ folder, because if you do,
+# Five Nights at Magnus Source Code
 
-YOU ARE A DUMBASS
+Este jogo **NÃO é um fangame**. É um projeto novo e original.  
+Por favor, **não modifique a pasta `ASSETS/`**. Alterar essa pasta de forma indevida compromete o funcionamento do jogo.
 
-OK? So, YOU DON'T LIKE FNAF? If so, don't modify the .c
+⚠️ Aviso importante:
+- Todos os **recursos visuais (sprites, frames, imagens)** são licenciados sob **CC-BY**.  
+- Os **sons** exigem licença própria para uso em plataformas como Xbox, iOS, PS4 e Switch.  
+- No Android, todos os sons serão disponibilizados sob **CC-BY**.  
+- Inserir arquivos maliciosos ou vírus nos assets é uma violação grave e pode afetar diversos dispositivos.
 
-Make sure the assets are CC-BY, but the sounds have a license, so you need to license the sounds to be able to use them on Xbox, iOS, PS4, and Switch. However, on Android, all sounds will be CC-BY.
+## Regras de colaboração
+- Respeite a estrutura do projeto.  
+- Não modifique arquivos críticos sem autorização.  
+- Certifique-se de que os assets usados seguem as licenças corretas.
